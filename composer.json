@@ -1,0 +1,18 @@
+{
+    "name": "yinglei/composerlearn",
+    "description": "echo hello world",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yinglei",
+            "email": "yinglei@staff.sina.com.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hello\\": "src/"
+        }
+    }
+}
